@@ -13,7 +13,7 @@
   <p><b>A breathtaking list of project ideas, starter kits, and boilerplates!</b></p>
   
   <h3>
-    🌍 <a href="http://2hfh.web.svpj.pl/1/">Explore the Live Platform Here</a> 🌍
+    🌍 <a href="http://2hfh.web.svpj.pl/">Explore the Live Platform Here</a> 🌍
   </h3>
   <p><i>Everything you see below—and much more—is fully accessible directly on our live platform. <br/>Generate fxmanifests, browse the library interactively, and download full .ZIP boilerplates instantly.</i></p>
 
